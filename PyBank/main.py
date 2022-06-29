@@ -83,7 +83,6 @@ output = (
     f"Greatest Decrease = {greatestDecrease[0]}, (${greatestDecrease[1]:,.2f})"
 )
 
-
 #print output
 print(output)
 

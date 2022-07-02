@@ -74,7 +74,7 @@ for m in range(len(change)):
 
 #start generating the output
 output = (
-    f"Financial Data Analysis \n"
+    f"\nFinancial Data Analysis \n"
     f"----------------------------\n"
     f"Total Months = {totalMonth} months\n"
     f"Total Budget = ${totalBudget:,.2f}\n"
